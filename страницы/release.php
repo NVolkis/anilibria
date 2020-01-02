@@ -38,10 +38,10 @@ require($_SERVER['DOCUMENT_ROOT'].'/private/header.php');
 
 <?php echo $tmpPage; ?>
 
-<div style="margin-top: 10px; margin-bottom: 10px;">
-	<a href="https://vk.com/anilibria" target="_blank" rel="nofollow"><img src="/img/other/a1.jpg" width="283" style="border-radius: 4px;"></a>
-	<a href="tg://resolve?domain=anilibria_tv" rel="nofollow"><img src="/img/other/a2.jpg" width="283" style="margin-left: 12px; border-radius: 4px;"></a>
-	<a href="https://discordapp.com/invite/anilibria" target="_blank" rel="nofollow"><img src="/img/other/a3.jpg" width="283" style="float: right; border-radius: 4px;"></a>
+<div style="mrgin: 10px 40px;">
+	<a href="https://vk.com/anilibria" target="_blank" rel="nofollow"><img src="/img/other/a1.jpg" width="250" style=" margin: 0 5px; border-radius: 10px;"></a>
+	<a href="tg://resolve?domain=anilibria_tv" rel="nofollow"><img src="/img/other/a2.jpg" width="250" style="margin: 0 5px; border-radius: 10px;"></a>
+	<a href="https://discordapp.com/invite/anilibria" target="_blank" rel="nofollow"><img src="/img/other/a3.jpg" width="250" style="margin: 0 5px; border-radius: 10px;"></a>
 </div>
 
 <?php if (checkADS()):?>
